@@ -1,4 +1,4 @@
-﻿namespace LengthOfLastWord
+﻿namespace _6_LengthOfLastWord
 {
     public class Solution
     {
